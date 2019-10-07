@@ -1,2 +1,13 @@
 # 2D-Carrom-Board
-A 2D carrom board implemented in OpenGL
+
+### Compile
+
+```make```
+
+### Run
+
+```./carrom```
+
+### Exit
+
+Press escape character to exit the game
