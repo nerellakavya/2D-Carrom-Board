@@ -1,0 +1,17 @@
+The code is basically implementation of carrom board game.
+
+Keyboard Controls:
+
+--> Right Arrow to move the striker on the line of shooting towards right.
+--> Left Arrow to move the striker on the line of shooting towards left.
+-->Up Arrow increases the speed upto a defined maximum value.
+-->Down Arrow decreases the speed till a defined threshold value
+-->Pressing "a" changes the direction of shooting anticlockwise.
+-->Pressing "c" changes the direction of shooting clockwise.
+
+Scoring:
+
+-->The game begins with a score of 30.Each second costs a point.
+-->Each white coin pocketed adds a score of 10 while each black coin pocketed costs the player a score of 5. 
+(Assuming that the player plays for whites.)
+-->Striker pocketes does not cost score (Again, a design choice).
